@@ -1,0 +1,3 @@
+[submodule "growi-plugin-remark-youtube"]
+	path = growi-plugin-remark-youtube
+	url = https://github.com/goofmint/growi-plugin-remark-youtube
